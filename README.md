@@ -1,10 +1,7 @@
 # Spring Microservices - V2 - Microservices + Spring Boot + Spring Cloud + Docker + Kubernetes
-#girish 
 
-
-#gi1
 #### V2 of our most popular course - Microservices + Spring Cloud + Docker + Kubernetes
-#gi2
+
 [![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
 
 Learn how to create awesome Microservices and RESTful web services with Spring and Spring Boot.
@@ -111,7 +108,7 @@ Update Jan 2021: Docker and Kubernetes added to the course!
 -  Step 26 - Configuring Liveness and Readiness Probes for Microservices with K8S
 -  Step 27 - Autoscaling Microservices with Kubernetes
 -  Step 28 - Delete Kubernetes Cluster and Thank You!
-#gi3
+
 ## URLS
 
 - http://localhost:8080/limits
